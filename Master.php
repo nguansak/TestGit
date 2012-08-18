@@ -33,3 +33,5 @@ echo "aassdfef";
 echo "aassdfef";
 echo "aassdfef";
 echo "aassdfef";
+
+echo "v1.1";
