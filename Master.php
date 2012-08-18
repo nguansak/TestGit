@@ -13,4 +13,4 @@ echo "v1.0.1";
 
 echo "v1.1";
 
-echo "v1.1 miner"
+echo "v1.1 miner";
