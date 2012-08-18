@@ -6,3 +6,5 @@
  * Time: 5:53 AM
  * To change this template use File | Settings | File Templates.
  */
+
+echo "Test Master";
