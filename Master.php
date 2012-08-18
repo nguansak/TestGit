@@ -11,25 +11,6 @@ echo "Test Master";
 
 echo "v1.0.1";
 
-echo "aassdfef";
-echo "aassdfef";
-echo "aassdfef";
+echo "v1.1";
 
-
-echo "aassdfef";
-echo "aassdfef";
-echo "aassdfef";
-
-
-echo "aassdfef";
-echo "aassdfef";
-echo "aassdfef";
-
-echo "aassdfef";
-echo "aassdfef";
-echo "aassdfef";
-
-
-echo "aassdfef";
-echo "aassdfef";
-echo "aassdfef";
+echo "v1.1 miner";
