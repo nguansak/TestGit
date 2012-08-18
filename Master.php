@@ -9,4 +9,4 @@
 
 echo "Test Master";
 
-echo "v1.0";
+echo "v1.0.1";
